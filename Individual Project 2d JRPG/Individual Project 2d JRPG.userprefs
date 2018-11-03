@@ -1,0 +1,38 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\Windows\BattleWindow.cs">
+    <Files>
+      <File FileName="Assets\Scripts\Actor\Actor.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\LoadNewArea.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\CameraController.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\PlayerSpawn.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Actor\ActorEditor.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Actor\AssetUtil.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Windows\StatsWindow.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Windows\WindowEnums.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Windows\GameWindow.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\GenericBattleAction.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\AttackBattleAction.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\AttackBattleActionEditor.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Windows\WindowManager.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Windows\GenericWindow.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\DialgoueManager.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\DialogueHolder.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\QuestManager.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\QuestObject.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\QuestTrigger.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\PlayerMovement.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Inventory.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\InventoryItem.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Sword.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\InventoryHUD.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Windows\RandomMapTesterEditor.cs" Line="11" Column="3" />
+      <File FileName="Assets\Scripts\Windows\BattleWindow.cs" Line="131" Column="6" />
+      <File FileName="Assets\Scripts\RandomMapTester.cs" Line="108" Column="26" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
